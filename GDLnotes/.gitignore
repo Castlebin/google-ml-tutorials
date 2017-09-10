@@ -1,0 +1,7 @@
+src/not_mnist/notMNIST_large/
+src/not_mnist/notMNIST_small/
+src/not_mnist/notMNIST_large.tar.gz
+src/not_mnist/notMNIST_small.tar.gz
+.idea/
+*.pickle
+*.zip
